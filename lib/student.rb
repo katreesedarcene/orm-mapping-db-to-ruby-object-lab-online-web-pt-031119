@@ -63,5 +63,7 @@ class Student
     SELECT COUNT(*)
     FROM students
     WHERE grade = 9;
+    SQL 
+    
   end
 end
