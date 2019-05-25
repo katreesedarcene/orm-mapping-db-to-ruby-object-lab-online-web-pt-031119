@@ -64,6 +64,6 @@ class Student
     FROM students
     WHERE grade = 9;
     SQL 
-    DB[]
+    DB[:conn]
   end
 end
